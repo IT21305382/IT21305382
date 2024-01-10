@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayesh Thilanka</h1>
 <h3 align="center">A passionate data scientist from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🌱 I’m currently learning at **SLIIT**
 
